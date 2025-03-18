@@ -9,22 +9,22 @@ section.bg-white { padding: 1rem; }
  */
 
 .bg-primary {
-    background-color: #4355C5 !important;
+    background-color: #A2141C !important;
 }
 .bg-darkest {
-    background-color: #161931 !important;
+    background-color: #000000 !important;
 }
 .bg-dark {
-    background-color: #525670 !important;
+    background-color: #6C1D20 !important;
 }
 .bg-medium {
-    background-color: #878CA6 !important;
+    background-color: #E5D1AF !important;
 }
 .bg-light {
-    background-color: #DBDEF0 !important;
+    background-color: #FEF9E3 !important;
 }
 .bg-lightest {
-    background-color: #F5F6FA !important;
+    background-color: #FFFFFF !important;
 }
 
 /*
@@ -32,16 +32,18 @@ section.bg-white { padding: 1rem; }
  */
 
 :root {
-    --bs-font-sans-serif: "Roboto", Helvetica, Arial, sans-serif;
+    --bs-font-sans-serif: "Montserrat", Helvetica, Arial, sans-serif;
     --bs-body-bg: #F5F6FA; /* Lightest */
 }
 
-* { font-family: "Roboto", Helvetica, Arial, sans-serif; font-weight: 500; }
+* { font-family: "Montserrat", Helvetica, Arial, sans-serif; font-weight: 500; }
 
 p, 
 .color-swatch-body .prop-item .value { font-weight: 500; }
 
-h1, h2, h3, h4 { font-weight: 800; }
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inknut Antiqua', serif;
+    font-weight: 800; }
 
 .row div-to-resolve { background-color: #ffffff; border-radius: 10px; }
 .pb-5 { border-radius: 10px; }
