@@ -10652,7 +10652,7 @@ fieldset:disabled .btn {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #e91e63 !important;
+  color: #A2141C !important;
 }
 
 .text-secondary {
@@ -10664,7 +10664,7 @@ fieldset:disabled .btn {
 }
 
 .text-info {
-  color: #1A73E8 !important;
+  color: #A2141C !important;
 }
 
 .text-warning {
@@ -20934,7 +20934,7 @@ fieldset:disabled .btn {
 
 .btn-dark,
 .btn.bg-gradient-dark {
-  box-shadow: 0 3px 3px 0 rgba(52, 71, 103, 0.15), 0 3px 1px -2px rgba(52, 71, 103, 0.2), 0 1px 5px 0 rgba(52, 71, 103, 0.15);
+  box-shadow: 0 3px 3px 0 #34476726, 0 3px 1px -2px rgba(52, 71, 103, 0.2), 0 1px 5px 0 rgba(52, 71, 103, 0.15);
 }
 
 .btn-dark:hover,
