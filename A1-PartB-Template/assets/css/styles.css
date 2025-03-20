@@ -33,7 +33,7 @@ section.bg-white { padding: 1rem; }
 
 :root {
     --bs-font-sans-serif: "Montserrat", Helvetica, Arial, sans-serif;
-    --bs-body-bg: #F5F6FA; /* Lightest */
+    --bs-body-bg: #E5D1AF; /* Lightest */
 }
 
 * { font-family: "Montserrat", Helvetica, Arial, sans-serif; font-weight: 500; }
@@ -47,3 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .row div-to-resolve { background-color: #ffffff; border-radius: 10px; }
 .pb-5 { border-radius: 10px; }
+
+body {
+    color: #000000; /* Changes all text in the body to red */
+}
