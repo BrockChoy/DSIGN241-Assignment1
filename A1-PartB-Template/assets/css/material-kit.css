@@ -846,6 +846,7 @@ progress {
 .col-6 {
   flex: 0 0 auto;
   width: 50%;
+  background-color: #FEF9E3
 }
 
 .col-7 {
@@ -5246,7 +5247,7 @@ fieldset:disabled .btn {
   --bs-card-cap-color: ;
   --bs-card-height: ;
   --bs-card-color: ;
-  --bs-card-bg: #fff;
+  --bs-card-bg: #FEF9E3;
   --bs-card-img-overlay-padding: 1rem;
   --bs-card-group-margin: 0.75rem;
   position: relative;
@@ -10764,7 +10765,7 @@ fieldset:disabled .btn {
 }
 
 .bg-white {
-  background-color: #fff !important;
+  background-color: #FEF9E3 !important;
 }
 
 .bg-dark-blue {
